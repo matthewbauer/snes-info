@@ -1,0 +1,10 @@
+
+*.o
+*.a
+*.[568vq]
+[568vq].out
+snes-info
+_test
+_testmain.go
+
+
